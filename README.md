@@ -40,8 +40,10 @@ License key: TIfKsMhOfQzShUiW
 Пример запуска программы:
 crackme-4.exe
 
+```cmd
 Name: <your name>
 License Key: <license key>
+```
 
 
 ### Урок 8. Видеоурок «Антиотладочные приемы»
@@ -50,5 +52,7 @@ License Key: <license key>
 Пример запуска программы:
 task-5.exe
 
+```cmd
 Name: <your name>
 License Key: <license key>
+```
